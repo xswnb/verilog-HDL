@@ -1,1 +1,1 @@
-# verilog-HDL
+Verilog HDL
